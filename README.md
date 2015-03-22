@@ -10,7 +10,7 @@ The script completes the following steps.
 
 3) Loads and merges the training and the test sets to create one data set.
 
-4) Extracts only the measurements on the mean and standard deviation for each measurement, using the variable names contained in 'features.txt', one of the files downloaded in the compressed document. Means are placed first, consecutively in order of appearance. Standard deviations are placed second.
+4) Extracts only the measurements on the mean and standard deviation for each measurement, using the variable names contained in 'features.txt', one of the files downloaded in the compressed document. Means are placed first, in order of appearance. Standard deviations are placed second.
 
 5) Provides descriptive activity names by copying the selected the labels from 'activity_labels.txt'.
 
